@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script type="module" src="https://md-block.verou.me/md-block.js"></script>
+        <title id="title">
+            Top 100 Games
+        </title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h1>Top 100 Games</h1>
+            </div>
+            <div class="page-content">
+                <md-block id="text-body" src="/markdown-files/top-100/[Year].md">
+                <p>If you are seeing this, it looks like the content failed to load. Sorry about that!</p>
+                </md-block>
+            </div>
+            <div class="footer">
+                <p>Here's a footer</p>
+            </div>
+        </div>
+    </body>
+    <script>
+        const md_filename = '/markdown-files/top-100/1985.md'
+        const md_element = document.getElementById('text-body')
+        md_element.src = md_filename
+        document.getElementById("title").innerHTML = "Top 100 Games - 1985"
+    </script>
+</html>
