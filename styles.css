@@ -7,33 +7,28 @@ h1, h2, h3 {
 p {
     color: rgb(200, 240, 255)
 }
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
 .header {
-    position: fixed;
     margin-left: 10%;
     margin-right: 10%;
     width: 80%;
-    height: 10%;
-    top: 0;
-    bottom: 10%;
-    border-bottom: 3px solid rgb(255, 255, 196); 
+    border-bottom: 3px solid rgb(80, 190, 255); 
 }
 .page-content {
-    position: fixed;
     width: 78%;
     margin-left: 11%;
     margin-right: 11%;
-    top: 11%;
-    height: 88%;
-    overflow: auto;
+    flex: 1;
+    overflow-y: auto;
 }
-/* footer not in use yet :) */
-/* .footer {
-    position: fixed;
+.footer {
     margin-left: 25%;
     margin-right: 25%;
     width: 50%;
-    height: 5%;
-    bottom: 0;
-    text-align: center;
-    border: 3px solid rgb(255, 255, 196)
-} */
+    flex-shrink: 0;
+    border-top: 2px solid rgb(80, 190, 255);
+}
