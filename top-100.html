@@ -14,14 +14,14 @@
         <div class="flex-vertical">
             <div class="header">
                 <div class="flex-horizontal">
-                    <div class="outer-header"><h1 style="text-align: left;">Top 100 Games</h1></div>
+                    <div class="outer-header"><h4 style="text-align: left;">Top 100 Games</h4></div>
                     <div class="middle-header"> 
                         <div class="dropdown">
-                            <h1><a id="year-select" class="dropbtn">Introduction</a></h1>
+                            <h4><a id="year-select" class="dropbtn">Introduction ▼</a></h4>
                             <div id="myDropdown" class="dropdown-content">
                                 <a href="#" class="dditem">Introduction</a>
                                 <a href="#" class="dditem">Summary</a>
-                                <a onclick="show1980s()" class="dropbtn">1980s</a>
+                                <a onclick="show1980s()" class="dropbtn">1980s ►</a>
                                 <div id="1980s" class="dropdown-side">
                                     <a href="#" class="dditem">1985</a>
                                     <a href="#" class="dditem">1986</a>
@@ -29,7 +29,7 @@
                                     <a href="#" class="dditem">1988</a>
                                     <a href="#" class="dditem">1989</a>
                                 </div>
-                                <a onclick="show1990s()" class="dropbtn">1990s</a>
+                                <a onclick="show1990s()" class="dropbtn">1990s ►</a>
                                 <div id="1990s" class="dropdown-side">
                                     <a href="#" class="dditem">1990</a>
                                     <a href="#" class="dditem">1991</a>
@@ -42,7 +42,7 @@
                                     <a href="#" class="dditem">1998</a>
                                     <a href="#" class="dditem">1999</a>
                                 </div>
-                                <a onclick="show2000s()" class="dropbtn">2000s</a>
+                                <a onclick="show2000s()" class="dropbtn">2000s ►</a>
                                 <div id="2000s" class="dropdown-side">
                                     <a href="#" class="dditem">2000</a>
                                     <a href="#" class="dditem">2001</a>
@@ -55,7 +55,7 @@
                                     <a href="#" class="dditem">2008</a>
                                     <a href="#" class="dditem">2009</a>
                                 </div>
-                                <a onclick="show2010s()" class="dropbtn">2010s</a>
+                                <a onclick="show2010s()" class="dropbtn">2010s ►</a>
                                 <div id="2010s" class="dropdown-side">
                                     <a href="#" class="dditem">2010</a>
                                     <a href="#" class="dditem">2011</a>
@@ -68,7 +68,7 @@
                                     <a href="#" class="dditem">2018</a>
                                     <a href="#" class="dditem">2019</a>
                                 </div>
-                                <a onclick="show2020s()" class="dropbtn">2020s</a>
+                                <a onclick="show2020s()" class="dropbtn">2020s ►</a>
                                 <div id="2020s" class="dropdown-side">
                                     <a href="#" class="dditem">2020</a>
                                     <a href="#" class="dditem">2021</a>
@@ -78,13 +78,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="outer-header"><h1 style="text-align: right;"><a href="index.html">Home</a></h1></div>
+                    <div class="outer-header"><h4 style="text-align: right;"><a href="index.html" class="inline-link">Home</a></h4></div>
                 </div>
 
             </div>
             <div class="page-content">
                 <md-block id="text-body" src="/markdown-files/top-100/Introduction.md">
-                <p>If you are seeing this, it looks like the content failed to load. Sorry about that!</p>
+                    <p>Content is loading... this will automatically go away once loading is successful.</p>
                 </md-block>
             </div>
         </div>
@@ -100,10 +100,10 @@
             document.getElementById('year-select').addEventListener('click', myFunction)
 
             function loadContent(pageName) {
-                document.getElementById("year-select").innerText = pageName 
+                document.getElementById("year-select").innerText = `${pageName} ▼` 
                 document.getElementById('text-body').src = `/markdown-files/top-100/${pageName}.md`
                 document.title = `Top 100 Games - ${pageName}`
-                window.scrollTo(0, 0)
+                document.getElementById('text-body').scrollTop
             }
 
             function myFunction() {
