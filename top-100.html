@@ -11,17 +11,70 @@
         <link rel="stylesheet" href="styles.css">
     </head>
     <body>
-        <div class="container">
+        <div class="flex-vertical">
             <div class="header">
                 <div class="flex-horizontal">
                     <div class="outer-header"><h1 style="text-align: left;">Top 100 Games</h1></div>
                     <div class="middle-header"> 
                         <div class="dropdown">
-                            <h1 id="year-select"><a onclick="myFunction()" class="dropbtn">Introduction</a></h1>
+                            <h1><a id="year-select" class="dropbtn">Introduction</a></h1>
                             <div id="myDropdown" class="dropdown-content">
                                 <a href="#" class="dditem">Introduction</a>
-                                <a href="#" class="dditem">1985</a>
-                                <a href="#">1986</a>
+                                <a href="#" class="dditem">Summary</a>
+                                <a onclick="show1980s()" class="dropbtn">1980s</a>
+                                <div id="1980s" class="dropdown-side">
+                                    <a href="#" class="dditem">1985</a>
+                                    <a href="#" class="dditem">1986</a>
+                                    <a href="#" class="dditem">1987</a>
+                                    <a href="#" class="dditem">1988</a>
+                                    <a href="#" class="dditem">1989</a>
+                                </div>
+                                <a onclick="show1990s()" class="dropbtn">1990s</a>
+                                <div id="1990s" class="dropdown-side">
+                                    <a href="#" class="dditem">1990</a>
+                                    <a href="#" class="dditem">1991</a>
+                                    <a href="#" class="dditem">1992</a>
+                                    <a href="#" class="dditem">1993</a>
+                                    <a href="#" class="dditem">1994</a>
+                                    <a href="#" class="dditem">1995</a>
+                                    <a href="#" class="dditem">1996</a>
+                                    <a href="#" class="dditem">1997</a>
+                                    <a href="#" class="dditem">1998</a>
+                                    <a href="#" class="dditem">1999</a>
+                                </div>
+                                <a onclick="show2000s()" class="dropbtn">2000s</a>
+                                <div id="2000s" class="dropdown-side">
+                                    <a href="#" class="dditem">2000</a>
+                                    <a href="#" class="dditem">2001</a>
+                                    <a href="#" class="dditem">2002</a>
+                                    <a href="#" class="dditem">2003</a>
+                                    <a href="#" class="dditem">2004</a>
+                                    <a href="#" class="dditem">2005</a>
+                                    <a href="#" class="dditem">2006</a>
+                                    <a href="#" class="dditem">2007</a>
+                                    <a href="#" class="dditem">2008</a>
+                                    <a href="#" class="dditem">2009</a>
+                                </div>
+                                <a onclick="show2010s()" class="dropbtn">2010s</a>
+                                <div id="2010s" class="dropdown-side">
+                                    <a href="#" class="dditem">2010</a>
+                                    <a href="#" class="dditem">2011</a>
+                                    <a href="#" class="dditem">2012</a>
+                                    <a href="#" class="dditem">2013</a>
+                                    <a href="#" class="dditem">2014</a>
+                                    <a href="#" class="dditem">2015</a>
+                                    <a href="#" class="dditem">2016</a>
+                                    <a href="#" class="dditem">2017</a>
+                                    <a href="#" class="dditem">2018</a>
+                                    <a href="#" class="dditem">2019</a>
+                                </div>
+                                <a onclick="show2020s()" class="dropbtn">2020s</a>
+                                <div id="2020s" class="dropdown-side">
+                                    <a href="#" class="dditem">2020</a>
+                                    <a href="#" class="dditem">2021</a>
+                                    <a href="#" class="dditem">2022</a>
+                                    <a href="#" class="dditem">2023</a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -44,14 +97,68 @@
                 })
             }
 
+            document.getElementById('year-select').addEventListener('click', myFunction)
+
             function loadContent(pageName) {
-                document.getElementById("year-select").innerHTML = pageName 
+                document.getElementById("year-select").innerText = pageName 
                 document.getElementById('text-body').src = `/markdown-files/top-100/${pageName}.md`
                 document.title = `Top 100 Games - ${pageName}`
+                window.scrollTo(0, 0)
             }
 
             function myFunction() {
                 document.getElementById("myDropdown").classList.toggle("show")
+            }
+
+            function show1980s() {
+                document.getElementById("1980s").classList.toggle("show")
+                document.getElementById("1990s").classList.remove("show")
+                document.getElementById("2000s").classList.remove("show")
+                document.getElementById("2010s").classList.remove("show")
+                document.getElementById("2020s").classList.remove("show")
+            }
+
+            function show1990s() {
+                document.getElementById("1980s").classList.remove("show")
+                document.getElementById("1990s").classList.toggle("show")
+                document.getElementById("2000s").classList.remove("show")
+                document.getElementById("2010s").classList.remove("show")
+                document.getElementById("2020s").classList.remove("show")
+            }
+
+            function show2000s() {
+                document.getElementById("1980s").classList.remove("show")
+                document.getElementById("1990s").classList.remove("show")
+                document.getElementById("2000s").classList.toggle("show")
+                document.getElementById("2010s").classList.remove("show")
+                document.getElementById("2020s").classList.remove("show")
+            }
+
+            function show2010s() {
+                document.getElementById("1980s").classList.remove("show")
+                document.getElementById("1990s").classList.remove("show")
+                document.getElementById("2000s").classList.remove("show")
+                document.getElementById("2010s").classList.toggle("show")
+                document.getElementById("2020s").classList.remove("show")
+            }
+
+            function show2020s() {
+                document.getElementById("1980s").classList.remove("show")
+                document.getElementById("1990s").classList.remove("show")
+                document.getElementById("2000s").classList.remove("show")
+                document.getElementById("2010s").classList.remove("show")
+                document.getElementById("2020s").classList.toggle("show")
+            }
+
+            window.onclick = function(event) {
+                if (!event.target.matches('.dropbtn')) {
+                    document.getElementById("myDropdown").classList.remove("show")
+                    document.getElementById("1980s").classList.remove("show")
+                    document.getElementById("1990s").classList.remove("show")
+                    document.getElementById("2000s").classList.remove("show")
+                    document.getElementById("2010s").classList.remove("show")
+                    document.getElementById("2020s").classList.remove("show")
+                }
             }
         </script>
     </body>
