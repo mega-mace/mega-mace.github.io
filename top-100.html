@@ -82,7 +82,7 @@
                 </div>
 
             </div>
-            <div class="page-content">
+            <div id="div-body" class="page-content">
                 <md-block id="text-body" src="/markdown-files/top-100/Introduction.md">
                     <p>Content is loading... this will automatically go away once loading is successful.</p>
                 </md-block>
@@ -103,7 +103,7 @@
                 document.getElementById("year-select").innerText = `${pageName} ▼` 
                 document.getElementById('text-body').src = `/markdown-files/top-100/${pageName}.md`
                 document.title = `Top 100 Games - ${pageName}`
-                document.getElementById('text-body').scrollTop
+                document.getElementById('div-body').scrollTop = 0
             }
 
             function myFunction() {
