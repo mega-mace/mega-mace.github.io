@@ -87,6 +87,12 @@
                     <p>Content is loading... this will automatically go away once loading is successful.</p>
                 </md-block>
             </div>
+            <div class="footer">
+                <div class="flex-horizontal">
+                    <div class="left-footer"><h4 style="text-align: left;"><a id="prev-page" href=# class="inline-link"></a></h4></div>
+                    <div class="right-footer"><h4 style="text-align: right;"><a href=#  id="next-page" class="inline-link">Summary</a></h4></div>
+                </div>
+            </div>
         </div>
         <script>
             dropdownItems = document.getElementsByClassName("dditem")
@@ -97,17 +103,51 @@
                 })
             }
 
-            document.getElementById('year-select').addEventListener('click', myFunction)
+            prev = document.getElementById('prev-page')
+            prev.addEventListener('click', e => {
+                loadContent(prev.innerHTML)
+            })
+            next = document.getElementById('next-page')
+            next.addEventListener('click', e => {
+                loadContent(next.innerHTML)
+            })
+            document.getElementById('year-select').addEventListener('click', showDropDown)
 
             function loadContent(pageName) {
                 document.getElementById("year-select").innerText = `${pageName} ▼` 
                 document.getElementById('text-body').src = `/markdown-files/top-100/${pageName}.md`
                 document.title = `Top 100 Games - ${pageName}`
                 document.getElementById('div-body').scrollTop = 0
+                document.getElementById('next-page').innerHTML = getNextPage(pageName)
+                document.getElementById('prev-page').innerHTML = getPreviousPage(pageName)
             }
 
-            function myFunction() {
+            function showDropDown() {
                 document.getElementById("myDropdown").classList.toggle("show")
+            }
+
+            function getNextPage(pageName) {
+                if (pageName === 'Introduction') {
+                    return 'Summary'
+                } else if (pageName === 'Summary') {
+                    return '1985'
+                } else if (pageName === '2023') {
+                    return ''
+                } else {
+                    return parseInt(pageName) + 1
+                }
+            }
+
+            function getPreviousPage(pageName) {
+                if (pageName === 'Introduction') {
+                    return ''
+                } else if (pageName === 'Summary') {
+                    return 'Introduction'
+                } else if (pageName === '1985') {
+                    return 'Summary'
+                } else {
+                    return parseInt(pageName) - 1
+                }
             }
 
             function show1980s() {

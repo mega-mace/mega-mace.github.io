@@ -7,19 +7,19 @@ h1, h2, h3, h4 {
     color: rgb(140, 230, 255);
 }
 h1 {
-    font-size: 6vw;
+    font-size: 6vmin;
 }
 h2 {
-    font-size: 5vw;
+    font-size: 5vmin;
 }
 h3 {
-    font-size: 4vw;
+    font-size: 4vmin;
 }
 h4, .dditem, .dropbtn {
-    font-size: 2vw;
+    font-size: 2vmin;
 }
 p, summary, li {
-    font-size: 3vw;
+    font-size: 3vmin;
 }
 a.dditem, a.dditem:visited {
     text-decoration: none;
@@ -70,14 +70,17 @@ a.inline-link {
     flex: 1;
     overflow-y: auto;
 }
-/* footer not currently in use :) */
-/* .footer {
+/* footer */
+.left-footer, .right-footer {
+    width: 50%;
+}
+.footer {
     margin-left: 25%;
     margin-right: 25%;
     width: 50%;
     flex-shrink: 0;
     border-top: 2px solid rgb(80, 190, 255);
-} */
+}
 /* dropdown */
 .dropdown {
     position: relative;
