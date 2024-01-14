@@ -1,21 +1,30 @@
-dropdownItems = document.getElementsByClassName("dditem")
-for (const dropdownItem of dropdownItems) {
-    dropdownItem.addEventListener("click", e => {
-        const page = dropdownItem.innerHTML
-        loadContent(dropdownItem.innerHTML)
-    })
-}
+// dropdownItems = document.getElementsByClassName("dditem")
+// for (const dropdownItem of dropdownItems) {
+//     dropdownItem.addEventListener("click", e => {
+//         const page = dropdownItem.innerHTML
+//         loadContent(dropdownItem.innerHTML)
+//     })
+// }
 
-document.getElementById('year-select').addEventListener('click', myFunction)
+// prev = document.getElementById('prev-page')
+// prev.addEventListener('click', e => {
+//     loadContent(prev.innerHTML)
+// })
+// next = document.getElementById('next-page')
+// next.addEventListener('click', e => {
+//     loadContent(next.innerHTML)
+// })
 
-function loadContent(pageName) {
-    document.getElementById("year-select").innerText = `${pageName} ▼` 
-    document.getElementById('text-body').src = `/markdown-files/top-100/${pageName}.md`
-    document.title = `Top 100 Games - ${pageName}`
-    document.getElementById('div-body').scrollTop = 0
-}
+// function loadContent(pageName) {
+//     document.getElementById("year-select").innerText = `${pageName} ▼` 
+//     document.getElementById('text-body').src = `/markdown-files/top-100/${pageName}.md`
+//     document.title = `Top 100 Games - ${pageName}`
+//     document.getElementById('div-body').scrollTop = 0
+//     document.getElementById('next-page').innerHTML = getNextPage(pageName)
+//     document.getElementById('prev-page').innerHTML = getPreviousPage(pageName)
+// }
 
-function myFunction() {
+function showDropDown() {
     document.getElementById("myDropdown").classList.toggle("show")
 }
 
