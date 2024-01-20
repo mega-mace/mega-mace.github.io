@@ -49,17 +49,20 @@ a.inline-link {
     flex-direction: row;
     justify-content: space-evenly;
 }
+/* content widths */
+.header, .page-content, .footer {
+    margin: auto;
+    width: 100%;
+    max-width: 1536px;
+    padding-left: -7%;
+    padding-right: -7%;
+}
 /* header */
 .outer-header, .middle-header {
     width: 33%;
 }
 .middle-header {
     text-align: center;
-}
-.header, .page-content, .footer {
-    margin: auto;
-    width: 100%;
-    max-width: 1536px;
 }
 .header {
     border-bottom: 3px solid rgb(80, 190, 255); 
