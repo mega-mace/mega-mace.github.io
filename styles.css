@@ -56,17 +56,16 @@ a.inline-link {
 .middle-header {
     text-align: center;
 }
+.header, .page-content, .footer {
+    margin: auto;
+    width: 100%;
+    max-width: 1536px;
+}
 .header {
-    margin-left: 10%;
-    margin-right: 10%;
-    width: 80%;
     border-bottom: 3px solid rgb(80, 190, 255); 
 }
 /* body */
 .page-content {
-    width: 78%;
-    margin-left: 11%;
-    margin-right: 11%;
     flex: 1;
     overflow-y: auto;
 }
@@ -75,9 +74,6 @@ a.inline-link {
     width: 50%;
 }
 .footer {
-    margin-left: 25%;
-    margin-right: 25%;
-    width: 50%;
     flex-shrink: 0;
     border-top: 2px solid rgb(80, 190, 255);
 }
