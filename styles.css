@@ -1,10 +1,11 @@
 /* colors and fonts */
 body {
     background-color: rgb(48, 36, 54);
-    color: rgb(200, 240, 255)
+    color: rgb(200, 240, 255);
 }
 h1, h2, h3, h4 {
     color: rgb(140, 230, 255);
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
 }
 h1 {
     font-size: 6vmin;
@@ -20,10 +21,12 @@ h4, .dditem, .dropbtn {
 }
 p, summary, li {
     font-size: 3vmin;
+    font-family: Cambria, Georgia, Times, 'Times New Roman', serif;
 }
 a.dditem, a.dditem:visited {
     text-decoration: none;
     text-decoration-color: none;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
     color: rgb(48, 36, 54);
 }
 a.inline-link {
@@ -87,6 +90,7 @@ a.inline-link {
 }
 .dropbtn {
     cursor: pointer;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
 }
 .dropdown-content {
     display: none;
