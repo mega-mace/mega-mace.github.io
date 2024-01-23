@@ -319,7 +319,7 @@ Uncharted 2 (2009)
 Uncharted 4 (2016)  
 Undertale (2015)  
 VVVVVV (2010)  
-Yooka-Laylee and the Impossible Lair (2019)  
+Yooka-Laylee and the Impossible Lair (2019)
 
 </details>
 

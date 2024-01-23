@@ -37,5 +37,5 @@ I do still plan to make updates to this, but any games I want to add will go und
 Of course, there might also be updates for little fixes or rewrites of existing entries.
 
 ### Versions
-1.0.1 - 22 Jan 2024; added alphabetized lists to summary page, minor changes of one entry
+1.0.1 - 22 Jan 2024; added alphabetized lists to summary page, minor changes of one entry  
 1.0.0 - December 2023; initial version
