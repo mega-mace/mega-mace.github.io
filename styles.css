@@ -29,7 +29,7 @@ a.dditem, a.dditem:visited {
     font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
     color: rgb(48, 36, 54);
 }
-a.inline-link {
+a {
     text-decoration: none;
     text-decoration-color: none;
     color: rgb(140, 230, 255);
