@@ -34,7 +34,7 @@ a {
     text-decoration-color: none;
     color: rgb(140, 230, 255);
 }
-.dropdown-content {
+.dropdown-content, .dropdown-content a.dropbtn {
     color: rgb(48, 36, 54);
 }
 .dropbtn:hover, a:hover {
