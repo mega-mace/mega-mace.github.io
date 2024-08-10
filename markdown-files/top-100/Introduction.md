@@ -37,6 +37,7 @@ I do still plan to make updates to this, but any games I want to add will go und
 Of course, there might also be updates for little fixes or rewrites of existing entries.
 
 ### Versions
+1.1.3 - 10 Aug 2024; YIR ref for 2004 game  
 1.1.2 - 27 Jul 2024; added HM for 1998  
 1.1.1 - 29 Jun 2024; minor changes of one entry, added YIR refs  
 1.1.0 - 7 Apr 2024; updated 2022 entry, added 2024 HM  
