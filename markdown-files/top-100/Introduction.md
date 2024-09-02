@@ -10,36 +10,20 @@ I determine year by original release date for its earliest region. DLC, expansio
 
 No fan games, mods, hacks, etc. I do appreciate the talent, creativity and dedication that goes into these, but I feel like it’s almost a separate category, and simply put I just haven’t really played enough to include them anyway. 
 
-Each review will be limited to 500 words or less per game, barring an _extra_ exceptional game. Exercising brevity is important! And with 100 games, a max word count of 50,000 (excluding the intro) is already a lot.
+Each review will be limited to 500 words or less per game, barring an _extra_ exceptional game. Exercising brevity is important! And with 100 games, a max word count of 50,000 is already a lot.
 
 There will definitely not be any sort of overall ranking, but the enthusiasm level of the review should give some idea. Occasionally I'll emphasize the very best games explicitly, as well as call out fringe entries.
 
 ## Methodology
 
-For the most part, I went through year by year looking at the Wikipedia page of that year in gaming. Those wikis don’t list all games, but include most significant ones, which generally encompasses what I’ve played anyway. For more recent years, since I have those consoles hooked up, it was easy enough to just browse through my libraries on those consoles. Then I made an initial pass, putting down most games that are at least borderline good-great, knowing that some will need to be eliminated later. Some of them I eliminated from the list entirely, but others made it in as honorable mentions. I went through a push-pull of deciding what could absolutely go, what absolutely had to stay, gradually working from both ends until I landed on 100.
+For the most part, I went through year by year looking at the Wikipedia page of that year in gaming. Those wikis don’t list all games, but include most significant ones, which generally encompasses what I’ve played anyway. For more recent years, since I have those consoles hooked up, it was easy enough to just browse through my libraries on those consoles. Then I made an initial pass, putting down most games that are at least borderline good-great, knowing that some will need to be eliminated later. Some of them I eliminated from the list entirely, but others made it in as honorable mentions. I went through a push-pull of deciding what could absolutely go and what absolutely had to stay, gradually working from both ends until I landed on 100.
 
 ## Criteria and Review Content
 
 It should probably go without saying, but there is no real criteria for what constitutes a top 100 game, other than I enjoyed it at some level and thought it “feels” right to put it. If you want a review of the most influential or impactful games, so read IGN or Kotaku or something. This is more about reflection than recommendation. That being said, of course I do sometimes value a game on impact and influence, and emphasize such. Hopefully the content of the reviews tends to reflect why I place importance on a particular game. I fully admit that the quality of the reviews varies, as the words come more easily for some games than others. Depending on the review I might talk about memories around playing it; its place in a broader series or genre; how it reflects industry trends, and so on. Sometimes they are a bit more critical rather than completely glowing, but rest assured that I do like everything here. Each review is intended to be readable standalone, but I also liberally make references to other reviews, in painting a broader picture of my tastes. Lastly, I don’t waste a lot of words on explaining what the game is (unless I feel it helps contextualize it), so this assumes some reader familiarity; again, that’s more IGN’s job.
 
-## Version History
+## History and Updates
 
-The first complete version of the list took me around a year to write, due to a combination of the extensiveness of writing 100 reviews, the changes I made to the list over the year as I played new contenders, and mostly my tendency towards procrastination.
+I spent nearly a year producing the first complete version of the list, which was done in December 2023, due to a combination of the extensiveness of writing 100 reviews, the changes I made to the list over the year as I played new contenders, and mostly my tendency towards procrastination. The long process, particularly the shuffling of entries, made me decide against my original plan to update the list each year. It turns it into an exercise in precise ranking, which is exactly what I didn't want. Instead, prospective new entries will just get added as Honorable Mentions (in addition to the original HMs which were more like sub-100 games).
 
-Initially, I planned to update the list each year, but I eventually decided against it. Even before I completed it, I hit a point where I was content enough that I didn't want to change the entries anymore, even if I did play a new game that probably deserved it. The reasons for this are:
-
-1. If I place new games on the list, it means taking one off, which ostensibly would be the 100th-best game. But then this becomes an exercise in precise ranking and comparing between eras, which this was not supposed to be.
-2. I dislike the idea of having to keep up with each successive new year. Some years I might not play a truly worthy game, at least not _in_ its release year.
-3. I came up with the idea of a "Year in Review" after I started this list, giving me a place to dump my more detailed thoughts, which was kind of the main point of this.
-
-I do still plan to make updates to this, but any games I want to add will go under Honorable Mentions, and I won't go beyond 2023 unless I feel like it. Initially I conceived of the HMs as sub-100 games, but with this new approach, it'll be a mixture of those as well as games that probably would be top 100 if I re-ranked things. At this point I prefer to think of "top 100" as a statement of quality than a literal ranking. 
-
-Of course, there might also be updates for little fixes or rewrites of existing entries.
-
-### Versions
-1.1.3 - 10 Aug 2024; YIR ref for 2004 game  
-1.1.2 - 27 Jul 2024; added HM for 1998  
-1.1.1 - 29 Jun 2024; minor changes of one entry, added YIR refs  
-1.1.0 - 7 Apr 2024; updated 2022 entry, added 2024 HM  
-1.0.1 - 22 Jan 2024; added alphabetized lists to summary page, minor changes of one entry  
-1.0.0 - December 2023; initial version
+After I started this list but before I finished, I got myself into the concept of a "year in review" of everything I played. So instead of doing extensive rewrites or new reviews, I just update this to point to the year in review where all my new thoughts get dumped. Other than that I update for minor fixes/typos if I happen to notice them.
