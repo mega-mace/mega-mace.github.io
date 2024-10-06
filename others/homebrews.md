@@ -4,7 +4,17 @@ This is a growing collection of thoughts on homebrew  games I've played over tim
 
 ## Homebrew Highlights
 
-Coming soon... to include a more curated list of games
+### RHDN NES
+
+These are my picks for the "most interesting" games I came across (in no particular order). I don't know if I'd call them all the "best", as there are games that are more polished/complete that aren't listed, but also less conceptually interesting. Conversely, some of the games I did list aren't conceptually that original, but had a level of polish that stood out over others. Larger reviews can be found in the Chronology.
+
+- **BladeBuster**: Although just a short space shooter, impresses on the graphical front
+- **Lan Master**: Cool puzzle game that's a take on, I think, Pipe Dream
+- **D Pad Hero**: As it sounds, a rhythm game played with the D-Pad
+- **From Below**: Admittedly this is just Tetris, but it has a twist, and a lot of polish
+- **Lunar Limit**: Fun arcade style action as it makes twin-stick shooting fun with the NES' control limitations
+- **Star Evil**: Action 52 parody game that turns into an esoteric adventure
+- **Streemerz**: Another Action 52 parody/"remake", highly polished and interesting platformer control scehme
 
 ## Homebrew Chronology
 
@@ -221,6 +231,8 @@ This one is true to its name, but I'm not sure it's really like anything I've pl
 Kirby/Mario clone mix. This one has far too many levels for me to sample now, but seems like an actually complete and well thought out game. I felt like it was a bit slow to give me copy abilities, at least in a couple starting levels. The control doesn't feel _amazing_ but it gets the job done. However, I really dislike the aesthetic of this game which doesn't look very NES-like.
 
 And this, it turns out, is my last game of the 2010s, because the remaining one I realize is just a short story displayed in Russian, so no need to download it. The decade's hacks still hold on to a lot of arcade-style tropes, but I can see that the depth and quality is overall increasing. And now, on to the current decade; hard to believe I can still play NES homebrews that are only a few years old or less.
+
+Edit: I went back to it and actually think the controls are the fatal flaw keeping me from completing it. It has a run button like Mario, but the acceleration when you run is so uncomfortable that it hinders the experience.
 
 ### RHDN NES 2020-2024
 
