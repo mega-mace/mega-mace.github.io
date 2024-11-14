@@ -40,12 +40,16 @@ This game seems like one that could be interesting if I could understand at all 
 I've played this before, maybe not on the NES exactly, but in some form, so I'm not sure why I played it again. I wasn't a big fan and am still not. I feel like this would be more fun if your car only moved left to right, but the "vertical" movement makes it tough, especially with the jerky acceleration. It's sort of like a shump with too narrow of a playfield, you don't get any time or space to deal with obstacles as they come up.
 
 ### Teenage Mutant Ninja Turtles
-IGN's #98 NES game... still not quite in the good stuff. There is some interesting potential here, with the split between top down overworld and side scrolling action in the vein of Ninja Gaiden or Castlevania. The ability to switch between turtles that each have their own health bars and weapon sets is interesting as well. But the levels are just blandly designed if not outright hostile, with weird jumps that can send you back through its waves of erraticly spawning enemies. I was disappointed to find the infamous dam level so soon, as I really don't have the determination to get past it.
+IGN's #98 NES game... still not quite in the good stuff. There is some interesting potential here, with the split between top down overworld and side scrolling action in the vein of Ninja Gaiden or Castlevania. The ability to switch between turtles that each have their own health bars and weapon sets is interesting as well. But the levels are just blandly designed if not outright hostile, with weird jumps that can send you back through its waves of erratically spawning enemies. I was disappointed to find the infamous dam level so soon, as I really don't have the determination to get past it.
 
 ### Willow
 I haven't seen the film Willow, but this game starts out looking okay with a detailed intro sequence... and then I realize it appears to be an RPG, so I might need to come back to it with more time.
 
 ## Game Boy
+
+## Donkey Kong (1994)
+
+I heard good things about Donkey Kong 94, but this was a bit of a letdown. Nonetheless, I did go through the whole thing. It is arcade style, sometimes to a fault, as the precision of certain jumps that you don't have great control over can be annoying. There are differing degrees of fall damage in the game, which can lead to some trial and error unless you have a really good eye for it, as I'd often find Mario rolling out of a medium fall into an obstacle. Perhaps these are necessary evils given the limited screen space, and at least it's very generous with extra lives. But where DK94 really sings is the more puzzle-y elements that are introduced, where it deviates more from the original arcade games and feels more fair. Overall it's a pretty impressive package in the limited constraints, but it also had me yearning for games that were able to break away from those constraints and lean more into the puzzle aspect.
 
 ## SNES
 
@@ -57,6 +61,10 @@ I've played a game like this before, it's an implementation of... Bust a Move? I
 
 ## Game Boy Color
 
+## Donkey Kong Country
+
+I played the first world of this just to see what it was like. This is one of many handheld ports that was probably decent at the time but hard to evaluate now since you could just as easily play the better game it's based on. The levels are quite faithful to the original, but that makes it less interesting today than a game like Donkey Kong Land. It's just DKC on SNES with worse graphics and music. It would've been neat to see a new take on the graphics, since it instead just looks like an extremely washed out copy of the original, like a JPEG saved too many times. The control is better than DKL, but it's also worse in some respects, like how you turn into animal buddies instead of riding them, and they just disappear if you are hit at all.
+
 ## Sega Master System
 
 ## Sega Genesis
@@ -64,3 +72,13 @@ I've played a game like this before, it's an implementation of... Bust a Move? I
 ## Sega Game Gear
 
 I initially started writing out more on individual games for this system, but later realized a lot of them are ports of SMS games, and there's not much reason to play or write about those ones individually. They have a lot of the same problems, particularly platformers that use mostly the same level design but with a smaller screen that makes it harder to anticipate hazards. I also don't find the sound chip to be very good. It was a neat piece of tech for its time, but outside of true exclusives I'm not sure of a reason to play a lot of these in modern times when their superior versions are widely accessible.
+
+## Nintendo DS
+
+### Tetris DS
+
+Tetris is an undoubtedly great concept, but there are so many Tetris games that I often have my doubts that any given iteration will show me something novel with the concept. Tetris DS is surprisingly pretty interesting, as it leans heavily on theming from classic Nintendo games, and has some game modes I had not seen before, many of which specifically take advantage of the touch controls and two screens.
+
+### Yoshi Touch & Go
+
+I had low expectations for this, but Yoshi is a big enough name that I checked it out. Unsurprisingly, it's very cutesty and uses a lot of the touch screen. I found it kind of annoying, mainly due to the need to visualize across both screens. Otherwise it's pretty simplistic gameplay, as the game sort of plays itself, and you mainly draw in paths to assist the moving characters.
