@@ -1,84 +1,108 @@
 # ROM Roundup
-This page is for tracking ROMs I've sampled. There is a big world of retro games out there, and I've already played most of the stuff that interests me... but what else is out there? This is for tracking all those, and perhaps ones that interest me enough will get a proper look in my years in review. But this page is just for writing quick impressions, and is not specific to any year I played them. They will be listed alphabeticaly per console.
+This page is purely for listing ROMs I've sampled. It is more geared towards "random" games, as things I actually want to give a deeper look at will still show up in the year in review. Now of course, they aren't completely arbitrary picks. Some were from ROM packs labeled as "Top 100" (according to whom I have no idea), but after a while I started looking for more curated lists per platform, from sources such as IGN. I also started out writing little synopses of each, but even that started to be too much of a chore, and probably isn't that exciting to read, since they have many issues in common.
 
-## NES
+Some of these platforms are so old that in modern times, being an alleged "top 100", or sometimes even into the top 20, needs to be taken with a grain of salt. Some hold up still, but many have been long since seen better takes on whatever it was they tried to do. With handheld games in particular, so many are (effectively) limited ports of a home console game - certainly they had their place in car rides in the 90's, but with the bigger console equally easy to emulate now, it's hard to see much value in these reduced versions today.
 
-### Astyanax
-Typical overly hard side scrolling action game. The attack in this feels really underpowered and there are a lot of enemies that are placed just out of reach of your awkward axe radius. It's the kind of thing where you need to jump to hit them but if you jump too high then you can't. Not to mention enemies just across a pit where you have to get close to reach but then if they hit you, you fall _forward_ into the pit. Ugh.
+I'm also listing out homebrews and ROMhacks here. My criteria for listing something is basically that I played it enough to know whether or not I'd want to continue it.
 
-### Battletoads and Double Dragon
-It's pretty much what is advertised in the name. I have hardly played either of the two individual games, so perhaps I should've waited to jump into this one. It's more on the Battletoads side, so it's pretty hard, and I didn't get that far. I probably could've gotten further, I just punted on this for now.
+## Official Releases
 
-### Cobra Triangle
-Reminds me a bit of RC Pro-Am, or whatever other isometric racing games are on the NES (not really my genre). But in this case, it's a boat instead of a car, and there are some missions that differ from straight races. This kind of isometric control is always awkward even when done well. If nothing else, at the time I played this, it was a relief from the deluge of frustrating arcade games.
+For now, I'm mixing these together among platforms, but the platform is listed. They are alphabetical.
 
-### Demon Sword
-Side scrolling action game where you can use a sword and shurikens. Maybe there's more to it, I got hit by the NES difficulty wall pretty fast. It does have some interesting stuff like with the climbable trees, but the physics are pretty floaty. It doesn't help that you press up to jump since the buttons are occupied.
+- Astyanax (NES)
+- Battletoads and Double Dragon (NES)
+- Bubsy in: Claws Encounters of the Furred Kind (SNES)
+- Bust a Move (Puzzle Bobble) (SNES)
+- Cobra Triangle (NES)
+- Demon Sword (NES)
+- Donkey Kong (1994) (GB)
+- Donkey Kong Country (GBC)
+- Donkey Kong Land (GB)
+- Donkey Kong Land 2 (GB)
+- Formation Z (FC)
+- The Guardian Legend (NES)
+- Ikari Warriors (NES)
+- Journey to Silius (NES)
+- Kickle Cubicle (NES)
+- Legendary Wings (NES)
+- Lode Runner (NES)
+- Rush'n Attack (NES)
+- Shadowgate (NES)
+- Skate or Die 2: The Search for Double Trouble (NES)
+- Spy Hunter (NES)
+- Teenage Mutant Ninja Turtles (NES)
+- Tetris DS (DS)
+- Kirby Mass Attack (DS)
+- Yoshi Touch & Go (DS)
 
-### Formation Z
-A game that appears to be JP-only that made its way into my ROM pack for whatever reason. It's a sidescrolling shmup with the twist that you play as a... person? who can transform into a jet. There are enemies at different elevations and your jet actually angles up and down as you move, with the gunfire angling along with it. It has a time limit and I kept getting game over since I couldn't figure out how to beat the first boss in time.
+## ROMhacks
 
-### The Guardian Legend
-A game I've heard about before, The Guardian Legend does start out promising. I need to play it more, but it's sort of like Blaster Master, in that it has little top down shooting dungeons in beween vehicle gameplay. In this case, it was introudced as a space shooter. I think there might even be more to it, but again, didn't get far.
+No ROMhacks yet!
 
-### Ikari Warriors
-Wow, is this game really slow, or do I have ROM/emulator problems? I knew enough about this going in to not be too excited, but it borders on unplayble.
+## Homebrew
 
-### Legendary Wings
-A vertical shump where I suppose the twist, if there is one, is that instead of warplanes or spaceships, you're some Icarus-like character and it's mythology themed. This is a genre the NES does fairly well, but one I'm just not that big a fan of.
+I'm organizing these by source and platform - mostly for my own record keeping than anything else, so I know where I've already looked. Fundamentally I don't know if there is much difference in sources, although some sites like romhacking.net (RHDN) have significantly older homebrews. But based on my experience playing them... that's not necessarily a great thing.
 
-### Lode Runner
-Arcadey platformer that's sort of like Donkey Kong crossed with Dig Dug. It can be summed up as climb the ladders, grab the gold, avoid the enemies. You can dig little holes to make them drop down, otherwise it's a fairly limited move set. I suck at it, it's a bit of a tough one to get the hang of.
+### RHDN NES
 
-### Rush'n Attack
-This one landed at #99 on IGN's list of top 100 NES games, but it isn't a strong (near) start for the list. It's sort of what I imagine as a stereotypical "okay" NES game. You play some military guy and you walk around and stab people, and that's pretty much it. I got annoyed early on with the flying jump kick guys in just the first stage, plus needing to press up to jump. The A button is reserved for guns, but you don't get them often.
-
-### Skate or Die 2: The Search for Double Trouble
-This game seems like one that could be interesting if I could understand at all how to control it. The high quality (for NES) voice samples and the little intro "custcene" at least set it apart somewhat.
-
-### Spy Hunter
-I've played this before, maybe not on the NES exactly, but in some form, so I'm not sure why I played it again. I wasn't a big fan and am still not. I feel like this would be more fun if your car only moved left to right, but the "vertical" movement makes it tough, especially with the jerky acceleration. It's sort of like a shump with too narrow of a playfield, you don't get any time or space to deal with obstacles as they come up.
-
-### Teenage Mutant Ninja Turtles
-IGN's #98 NES game... still not quite in the good stuff. There is some interesting potential here, with the split between top down overworld and side scrolling action in the vein of Ninja Gaiden or Castlevania. The ability to switch between turtles that each have their own health bars and weapon sets is interesting as well. But the levels are just blandly designed if not outright hostile, with weird jumps that can send you back through its waves of erratically spawning enemies. I was disappointed to find the infamous dam level so soon, as I really don't have the determination to get past it.
-
-### Willow
-I haven't seen the film Willow, but this game starts out looking okay with a detailed intro sequence... and then I realize it appears to be an RPG, so I might need to come back to it with more time.
-
-## Game Boy
-
-## Donkey Kong (1994)
-
-I heard good things about Donkey Kong 94, but this was a bit of a letdown. Nonetheless, I did go through the whole thing. It is arcade style, sometimes to a fault, as the precision of certain jumps that you don't have great control over can be annoying. There are differing degrees of fall damage in the game, which can lead to some trial and error unless you have a really good eye for it, as I'd often find Mario rolling out of a medium fall into an obstacle. Perhaps these are necessary evils given the limited screen space, and at least it's very generous with extra lives. But where DK94 really sings is the more puzzle-y elements that are introduced, where it deviates more from the original arcade games and feels more fair. Overall it's a pretty impressive package in the limited constraints, but it also had me yearning for games that were able to break away from those constraints and lean more into the puzzle aspect.
-
-## SNES
-
-### Bubsy in: Claws Encounters of the Furred Kind
-I know Bubsy is not a great series, but somehow several of them got made, and this isn't _the_ bad Bubsy game, and it was in my ROM pack... so I played it. Unsurprisingly, just like every second- and third-rate platformer of this era, it's the kind with overly large (dimensionally, not time-wise) levels that have no direction to them whatsoever. You can glide over long portions of the levels but there are chances you'll hit some obstacle without warning, and you die in one hit in this game. There's also some weird momentum to the jumps; it feels like you're being pushed by wind, but for every jump. It sucks!
-
-### Bust a Move
-I've played a game like this before, it's an implementation of... Bust a Move? I'm not sure if this is actually the original or not. It's the puzzle game where you have a "honeycomb" arrangement of colored bubbles, and have to aim and launch matching colors to form a set of three or more to clear them. The graphics make this nicer than some of the clones I've played, and aside from the typical endless hi-score mode, there's also a fun "story" mode with specific pre-built puzzles.
-
-## Game Boy Color
-
-## Donkey Kong Country
-
-I played the first world of this just to see what it was like. This is one of many handheld ports that was probably decent at the time but hard to evaluate now since you could just as easily play the better game it's based on. The levels are quite faithful to the original, but that makes it less interesting today than a game like Donkey Kong Land. It's just DKC on SNES with worse graphics and music. It would've been neat to see a new take on the graphics, since it instead just looks like an extremely washed out copy of the original, like a JPEG saved too many times. The control is better than DKL, but it's also worse in some respects, like how you turn into animal buddies instead of riding them, and they just disappear if you are hit at all.
-
-## Sega Master System
-
-## Sega Genesis
-
-## Sega Game Gear
-
-I initially started writing out more on individual games for this system, but later realized a lot of them are ports of SMS games, and there's not much reason to play or write about those ones individually. They have a lot of the same problems, particularly platformers that use mostly the same level design but with a smaller screen that makes it harder to anticipate hazards. I also don't find the sound chip to be very good. It was a neat piece of tech for its time, but outside of true exclusives I'm not sure of a reason to play a lot of these in modern times when their superior versions are widely accessible.
-
-## Nintendo DS
-
-### Tetris DS
-
-Tetris is an undoubtedly great concept, but there are so many Tetris games that I often have my doubts that any given iteration will show me something novel with the concept. Tetris DS is surprisingly pretty interesting, as it leans heavily on theming from classic Nintendo games, and has some game modes I had not seen before, many of which specifically take advantage of the touch controls and two screens.
-
-### Yoshi Touch & Go
-
-I had low expectations for this, but Yoshi is a big enough name that I checked it out. Unsurprisingly, it's very cutesty and uses a lot of the touch screen. I found it kind of annoying, mainly due to the need to visualize across both screens. Otherwise it's pretty simplistic gameplay, as the game sort of plays itself, and you mainly draw in paths to assist the moving characters.
+- Astro Smash N Blast
+- Blade Buster
+- Carpet Shark
+- Chase
+- Chicken of the Farm
+- Cur Manor 
+- D-Pad Hero 
+- D-Pad Hero 2
+- Deth Complex 2
+- Double Action Blaster Guys 
+- Driar
+- Falldown
+- Falling
+- Fighter F-8000
+- Forehead Block Guy
+- Froggy 1K
+- From Below
+- Galaxxon: The Third War
+- Galaxy Patrol
+- Grave Digger
+- Inversion
+- Kid Funky
+- Kill Your F'ing Friends
+- Lan Master
+- Lawn Mower
+- Lunar Limit
+- Magic Floor
+- Manhole
+- Masmix
+- MillioNESy
+- Mine Shaft
+- Mouser 2
+- Munchie Attack
+- NES Virus Cleaner
+- NESnake
+- NESnake 2
+- Nova the Squirrel
+- Paint or Draw
+- Pegs
+- Plummet Challenge
+- PogoCats
+- Purple Cape Man
+- Putt Putt
+- Ralph 4
+- Rock Paper Scissors
+- ROOMS
+- Sgt. Helmet - Training Day
+- Simplistic
+- Snail Maze
+- Snowball Blaster
+- Solar Wars
+- Space Mutants 
+- Star Evil
+- STING
+- Streemerz
+- The Arm Wrestling Classic
+- The Game
+- The Ninja of the 4 Seasons
+- Thwaite
+- Wraith 
+- Zooming Secretary
