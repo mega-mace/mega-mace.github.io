@@ -1,13 +1,6 @@
 # Top 100 Games Summary
 
-This page contains my entire list in one place for convenient referencing. It also has some fun little breakdowns so you can see where my biases lie!
-
-Note: Honorable Mentions are not included in the breakdown stats (as you will see if you add them up to 100)
-
-## Full List
-
-<details>
-    <summary>Click to reveal the top 100 by year</summary>
+## By Year
 
 Super Mario Bros. (1985)  
 Castlevania (1986)  
@@ -110,10 +103,7 @@ Metroid Dread (2021)
 Elden Ring (2022)  
 The Legend of Zelda: Tears of the Kingdom (2023)
 
-</details>
-
-<details>
-    <summary>Click to reveal the top 100 A-Z</summary>
+## Alphabetical
 
 Animal Crossing New Horizons (2020)  
 Banjo-Kazooie (1998)  
@@ -216,125 +206,24 @@ Tony Hawk's Pro Skater 3 (2001)
 Wii Sports (2006)  
 Zelda II: The Adventure of Link (1987)
 
-</details>
+## Extra Mentions
 
-### Honorable Mentions
+Here are some games that I've played and been particularly impressed by since finalizing the list. The year in parentheses is the release year, but I've decided to order them chronologically of when I played them.
 
-<details>
-    <summary>Click to reveal Honorable Mentions by year</summary>
-
-Super Mario Land (1989)  
-Castlevania III: Dracula's Curse (1989)  
-Super Castlevania IV (1991)  
-Super Mario Kart (1992)  
-Doom (1993)  
-Super Mario RPG (1996)  
-Pokemon Red/Blue/Green/Yellow (1996)  
-Mega Man X4 (1997)  
-Goldeneye (1997)  
-Diddy Kong Racing (1997)  
-Half-Life (1998)  
-Tony Hawk's Pro Skater (1999)  
-Banjo-Tooie (2000)  
-Tony Hawk's Pro Skater 2 (2000)  
-The Legend of Zelda: Oracle of Ages/Seasons (2001)  
-Castlevania: Circle of the Moon (2001)  
-Paper Mario (2001)  
-Metroid Fusion (2002)  
-Super Mario Sunshine (2002)  
-The Simpsons Hit and Run (2003)  
-Mega Man X8 (2004)  
-Metroid Prime 2 (2004)  
-Halo 3 (2007)  
-Metroid Prime 3 (2007)  
-Guitar Hero 3 (2007)  
-Demon's Souls (2009)  
-Uncharted 2 (2009)  
-VVVVVV (2010)  
-Mega Man 10 (2010)  
-Rayman Origins (2011)  
-Super Mario 3D Land (2011)  
-Dead Space 2 (2011)  
-New Super Mario Bros. U (2012)  
-Fez (2012)  
-The Legend of Zelda: A Link Between Worlds (2013)  
-Super Mario 3D World (2013)  
-Undertale (2015)  
-Doom (2016)  
 Uncharted 4 (2016)  
-Yooka-Laylee and the Impossible Lair (2019)  
-The Legend of Zelda: Link's Awakening (2019)  
-Bloodstained: Ritual of the Night (2019)  
-Astro's Playroom (2020)  
-Ori and the Will of the Wisps (2020)  
-Ratchet and Clank: Rift Apart (2021)  
-Resident Evil 4 (2023)  
 Super Mario Bros. Wonder (2023)  
 Final Fantasy VII Rebirth (2024)  
-Astro Bot (2024)
-</details>
-
-<details>
-    <summary>Click to reveal Honorable Mentions A-Z</summary>
-    
-Astro Bot (2024)  
-Astro's Playroom (2020)  
-Banjo-Tooie (2000)  
-Bloodstained: Ritual of the Night (2019)  
-Castlevania III: Dracula's Curse (1989)  
-Castlevania: Circle of the Moon (2001)  
-Dead Space 2 (2011)  
-Demon's Souls (2009)  
-Diddy Kong Racing (1997)  
-Doom (1993)  
-Doom (2016)  
-Fez (2012)  
-Final Fantasy VII Rebirth (2024)  
-Goldeneye (1997)  
-Guitar Hero 3 (2007)  
 Half-Life (1998)  
 Halo 3 (2007)  
-The Legend of Zelda: A Link Between Worlds (2013)  
-The Legend of Zelda: Link's Awakening (2019)  
-The Legend of Zelda: Oracle of Ages/Seasons (2001)  
-Mega Man 10 (2010)  
-Mega Man X4 (1997)  
-Mega Man X8 (2004)  
-Metroid Fusion (2002)  
-Metroid Prime 2 (2004)  
-Metroid Prime 3 (2007)  
-New Super Mario Bros. U (2012)  
-Ori and the Will of the Wisps (2020)  
-Paper Mario (2001)  
-Pokemon Red/Blue/Green/Yellow (1996)  
-Ratchet and Clank: Rift Apart (2021)  
-Rayman Origins (2011)  
-Resident Evil 4 (2023)  
-Super Castlevania IV (1991)  
-Super Mario 3D Land (2011)  
-Super Mario 3D World (2013)  
-Super Mario Bros. Wonder (2023)
-Super Mario Kart (1992)  
-Super Mario Land (1989)  
-Super Mario RPG (1996)  
-Super Mario Sunshine (2002)  
-The Simpsons Hit and Run (2003)  
-Tony Hawk's Pro Skater (1999)  
-Tony Hawk's Pro Skater 2 (2000)  
-Uncharted 2 (2009)  
-Uncharted 4 (2016)  
-Undertale (2015)  
-VVVVVV (2010)  
-Yooka-Laylee and the Impossible Lair (2019)
+Astro Bot (2024)  
 
-</details>
+## Breakdowns
 
-## Franchise Counts
+For fun, here are some breakdowns of all the entries. 
 
-<details>
-    <summary>Click to reveal franchise counts</summary>
+### Franchises
 
-Yes, nearly a quarter of the list is from two franchises. I actually consider Zelda my favorite, but Mario leads the way mainly due to having much more games overall. Both franchises are ones where nearly any release is at least HM-worthy for me.
+Let's start with franchises. Yes, nearly a quarter of the list is from two franchises. I actually consider Zelda my favorite, but Mario leads the way mainly due to having much more games overall. 
 
 12: Mario
 
@@ -359,14 +248,10 @@ Portal
 RollerCoaster Tycoon
 
 The remaining 32 are one-offs. By one-offs I don't mean necessarily that they aren't part of franchises, but it's the only one in the franchise that I listed.
-</details>
 
-## Platform Counts
+### Platforms
 
-This is a breakdown by platform. For the most part, I tried to credit a specific platform as much as possible, so the "multi-platform" designation is essentially for third-party, simultaneous(ish) releases.
-
-<details>
-    <summary>Click to reveal platform counts</summary>
+Next, a breakdown by platform. For the most part, I tried to credit a specific platform as much as possible, so the "multi-platform" designation is essentially for third-party, simultaneous(ish) releases. What surprised me was how high NES made it, as there are better Nintendo consoles, but it makes sense because of my inclusion of games by year, and its slim console competition (i.e. SMS) is a big blind spot of mine.
 
 17: Multi-Platform
 
@@ -394,11 +279,10 @@ Xbox 360
 1: Game Boy  
 PlayStation 4  
 Xbox One
-</details>
 
-## Decade Counts
+### Decades
 
-I don't think this one needs to be hidden! 
+Finally, a breakdown by decade, even though it's not _super_ telling since each year required represenation:
 
 1980s: 9
 
