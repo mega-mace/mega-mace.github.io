@@ -10,7 +10,7 @@ Zelda II: The Adventure of Link (1987)
 Super Mario Bros. 2 USA (1988)  
 Mega Man 2 (1988)  
 Super Mario Bros. 3 (1988)  
-Tetris (1989)  
+Tetris (1989)*  
 StarTropics (1990)  
 Mega Man 3 (1990)  
 Super Mario World (1990)  
@@ -102,6 +102,8 @@ Final Fantasy VII Remake (2020)
 Metroid Dread (2021)  
 Elden Ring (2022)  
 The Legend of Zelda: Tears of the Kingdom (2023)
+
+*I know that Tetris predates 1989, but I had a hard time coming up with anything else for this year, and I felt this one was worth an exception since it was the year of its massive Game Boy release.
 
 ## Alphabetical
 
@@ -210,7 +212,6 @@ Zelda II: The Adventure of Link (1987)
 
 Here are some games that I've played and been particularly impressed by since finalizing the list. The year in parentheses is the release year, but I've decided to order them chronologically of when I played them.
 
-Uncharted 4 (2016)  
 Super Mario Bros. Wonder (2023)  
 Final Fantasy VII Rebirth (2024)  
 Half-Life (1998)  
