@@ -1,6 +1,6 @@
 # 2023 Gaming Year in Review
 
-2023 will probably go down as one of the best years ever in gaming, but like pretty much every year for the past decade, I spent a lot of my gaming time on seemingly endless massive backlog instead. I've had a tendency to be a generation or two behind, but as the current generation tends to move slowly (at least until this year), there has been a bit of time to catch up, as well as time to let go entirely of some of those games that have been buried in the backlog for years. 
+2023 will probably go down as one of the best years ever in gaming, but like pretty much every year for the past decade, I spent a lot of my gaming time on my seemingly endless massive backlog instead. I've had a tendency to be a generation or two behind, but as the current generation tends to move slowly (at least until this year), there has been a bit of time to catch up, as well as time to let go entirely of some of those games that have been buried in the backlog for years. 
 
 This is also a time when companies have been leaning more than ever into subscription-based gaming, much to my chagrin. I had a bit of a subscription game blitz, first with my expiring PlayStation Plus after I decided not to renew due to the price increase, and then a three month Game Pass trial. 
 
@@ -17,6 +17,7 @@ All games were beaten unless otherwise indicated.
 - Resident Evil 3 (2020)
 - Ratchet and Clank (2016)
 - Resident Evil 4 (2023)
+- Resident Evil 4 (2005) (replay)
 - BioShock 2
 - The Witcher 3 (abandoned at about 10 hours)
 - The Legend of Zelda: Tears of the Kingdom
