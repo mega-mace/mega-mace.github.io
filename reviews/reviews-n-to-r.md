@@ -10,7 +10,7 @@ See Super Mario page
 
 See Super Mario page
 
-### NieR: Replicant ver.1.22474487139...
+## NieR: Replicant ver.1.22474487139...
 
 NieR Replicant is a remaster from the early 2020s of a game from the early 2010s that feels like it belongs in the early 2000s. If you squint, you can see some similiarities to Zelda games of the time, but not in a flattering way. Like the worst Zelda impulses of the 2000s, the beginning of the game is a bit "tutorialized", with you having to go back and forth around your village, talking to helpful guide characters. But then it sets in that this goes on for the whole game. Of course eventually the trips back to the library become further apart, and you get out a bit more in the world, but it's a pretty small map that reuses locations a lot. I felt like it's sort of stuck never getting out of second gear (or at least not in the 20+ hours I lasted).
 
@@ -26,7 +26,7 @@ Since I don't know much about hack-and-slash, I assume this is a pretty prototyp
 
 ## Ninja Gaiden Sigma 2
 
-I always loved the first of the hack and slash Ninja Gaiden games, but when I couldn't afford an Xbox 360 for a long time, I missed out on the follow ups. Now that I've finally played one, it turns out I wasn't missing much. This one cranks up the male fantasy, with more gore and more comically large breasted female characters, but (at least in the four chapters I played) there wasn't much more to the coolest and least embarrassing part: your crazy ninja moves. In fact, for a remaster of an Xbox 360 game, it feels straight up like the same engine, which is good for my muscle memory, but not so good otherwise.
+The second of the hack and slash NG games is one I missed out on when I couldn't afford the generational jump at the time. Now that I've finally played one, it turns out I wasn't missing much. This one cranks up the male fantasy, with more gore and more comically large breasted female characters, but (at least in the four chapters I played) there wasn't much more to the coolest and least embarrassing part: your crazy ninja moves. In fact, for a remaster of an Xbox 360 game, it feels straight up like the same engine, which is good for my muscle memory, but not so good otherwise.
 
 I'm not sure what can be attributed to the Sigma update specifically, but the biggest changes from NG1 to NG2 are a lot of streamlined parts. You get new weapons much more frequently and the options for techniques and upgrades are simplified. Much of your health regenerates after battle, and the number of healing items you can carry is reduced. The purpose and barriers to entry for the shop are reduced with these changes. Further, arrows are now unlimited. These changes can be handy, but I'm not sure it makes for a better game; together, they all made me feel like both combat and exploration were lower stakes.
 
@@ -60,11 +60,11 @@ In an era where big budget publishers are obsessed with pushing the scope and le
 
 ## Portal 2
 
-Portal 2 is pretty much everything that made the first game great, but bigger. Just not too big... it's still a compact 10ish hours, but better to never overstay your welcome. The thing I actually remember most about Portal 2 is the world design, where you gradually ascend up layers of Aperture's history. It's super cool, as each one has a distinctive design, and is the kind of concept that could only work right in a video game. Of course there are plenty of new puzzles and mechanics, but the impact of seeing the portal gun (not to mention a rogue AI) is certainly diminished quite a bit the second time around. Nonetheless, it still has a ton of novelty and charm. If I had to rank the games on this list against each other, I'm not sure it would land super high sentimentally as a _favorite_, but the Portal games are so unique as to be among the most _essential_.
+Portal 2 is pretty much everything that made the first game great, but bigger. Just not too big... it's still a compact 10ish hours, but better to never overstay your welcome. The thing I actually remember most about Portal 2 is the world design, where you gradually ascend up layers of Aperture's history. It's super cool, as each one has a distinctive design, and is the kind of concept that could only work right in a video game. Of course there are plenty of new puzzles and mechanics, but the impact of seeing the portal gun (not to mention a rogue AI) is certainly diminished quite a bit the second time around. Nonetheless, it still has a ton of novelty and charm. If I had to rank my most cherished games against each other, I'm not sure it would land super high sentimentally as a _favorite_, but the Portal games are so unique as to be among the most _essential_.
 
 ## Ratchet and Clank (2016)
 
-Amazingly, the first R&C game I ever played was the newest, 2021's Rift Apart. Ironically, there's a chance I might enjoy one of the earlier R&C games more, as playing R&C 2016 wasn't different _enough_, good or bad, to feel like much more than a stripped down version of Rift Apart.  Nonetheless, it was a nice little short game to break up all the scary and gory Resident Evils, so I accomplished my goal playing it. It's mindless action in a good way. The part that stood out to me most was there were some more flying vehicle sections than Rift Apart, so that is one nice thing. 
+Amazingly, the first R&C game I ever played was the newest, 2021's Rift Apart. Ironically, there's a chance I might enjoy one of the earlier R&C games more, as playing R&C 2016 wasn't different _enough_, good or bad, to feel like much more than a stripped down version of Rift Apart.  Nonetheless, it is nice to have a short and simple game to mix things up with, and this wasn't a bad choice. It's mindless action in a good way. One nice thing that stood out to me most was there were some more flying vehicle sections than Rift Apart. 
 
 ## Rayman Legends
 
@@ -72,11 +72,9 @@ Rayman is one of those characters that everyone who plays games sort of knows ab
 
 RL plays closest to the modern DKC games, and while it's common for me to make comparisons between games unfavorably, I think both are strengthened by the connection. Playing RL felt familiar (in a good way) because of this, and yet at the same time helped me appreciate the design of the newer DKC games more, being able to separate them from preconceived notions of how they _should_ be. 
 
-RL has all the staples of a modern 2D platformer: lots of collectibles, a few secret areas and an emphasis on stringing together short but high difficulty challenges in mostly linear levels. Each level of course tends to have some major gimmick, be it visual or gameplay or both. A big highlight of the game is obviously the music levels, which have a bit of rhythmic timing to them. I also recall a level where the camera had a neat effect like you were looking through an aquarium, but there are so many more. It's one of those pull out all the creative stops games you would not expect to come from a developer like Ubisoft.
+RL has all the staples of a modern 2D platformer: lots of collectibles, a few secret areas and an emphasis on stringing together short but high difficulty challenges in mostly linear levels. Each level of course tends to have some major gimmick, be it visual or gameplay or both. A big highlight of the game is obviously the music levels, which have a bit of rhythmic timing to them. I also recall a level where the camera had a neat effect like you were looking through an aquarium, but there are so many more. It's one of those pull out all the creative stops games you would not expect to come from an often maligned developer like Ubisoft.
 
-## Resident Evil Series
-
-### Resident Evil 2 (2019)
+## Resident Evil 2 (2019)
 
 There's definitely a case to be made that the modern gaming industry is too reliant on re-releases and remasters, but remakes? Surprisingly, we don't get that many of them, but if they were all done like Capcom's Resident Evil 2, hopefully others will pick up on the concept. Granted, I haven't played the original RE2 to compare, and I know some RE purists are divided on the directions the series has taken, but I started out with RE4. In 2005, let alone today, the thought of dealing with fixed camera angles, limitations on saving and other dated elements is untenable. The RE2 remake brings us the best of both worlds, taking the over the shoulder control style of the new(ish) games but being restrained on the action.
 
@@ -84,7 +82,7 @@ RE2 is probably the most tense one in the series I've played to date. Just becau
 
 The highlight of the game was definitely the police station, but as you progress beyond, it was nice to meet other characters. A lot of the familiar RE design and story tropes are here, but I was surprised to see a more personal and grounded story. Following in the footsteps of RE7, Capcom continues to dial down on the campiness the series is known for, but it still isn't completely afraid to embrace the sillier aspects. I was a little disappointed that Claire and Leon's alternate campaigns actually covered a lot of the same ground, but there are some nice little differences that make them worth experiencing for the story, plus a few changes in guns. It's a pretty short game, but with enough variety between campaigns for a nice little replayable package... that is, if I can get over my fear of hearing that THUMP THUMP again.
 
-### Resident Evil 3 (2020)
+## Resident Evil 3 (2020)
 
 <details>
     <summary>Click to reveal spoiler entry</summary>
@@ -94,7 +92,7 @@ Sandwiched between two great remakes starring Leon Kennedy, RE3 also meets somew
 RE3 was still fun, but it's hard to picture myself having a reason to replay it. The story was also a big downgrade, lacking the character intimacy of 2. Then there's the extremely predictable two-faced squad member and downer ending. While I would assume some of these problems can be attributed to the original game, it still feels like a half-assed take on a good formula.
 </details>
 
-### Resident Evil 4 (2005)
+## Resident Evil 4 (2005)
 
 Since this was the first Resident Evil game I played, I had no preconceived notion of how they “should” be. Years later, I still have yet to touch many of the RE games, but I do know this: while RE4 might not be the scariest, and it isn’t the most action-oriented, or the campiest, it might be the most perfect marriage of all these things. When I first touched this game, I hadn’t really seen anything like it before, and yet it felt so great to play. 
 
@@ -102,9 +100,9 @@ Though the new third-person shooter mechanics were divisive, RE4 is still drippi
 
 Regardless, the gameplay itself is of course what really shines here. While ammo is not as stingy as its predecessors, it is still scarce compared to most shooters. To compensate for this, there is fortunately a great system to use melee command attacks—suplexing never gets old—and you always have your trusty knife.  Speaking of the knife, RE4 is notable for being the first game I recall widely being able to find gameplay videos on YouTube, both having been released around the same time. I loved those knife run videos, showing the limits of what’s possible. But I stick to the guns, because they’re so fun to shoot and upgrade, plus with the new merchant mechanic, it gives way to a nice degree of exploration for treasures. 
 
-I’ve replayed RE4 a lot over the years, whether it’s with the very fun and overpowered bonus guns or starting over completely. I would say that it still holds up, but having now been remade, I have to think harder on that one. Ironically, one of the more dated aspects, in which you stand still while shooting and move the reticle around the screen, is in my opinion a fun change of pace compared to the centered reticle standard of shooters today. While I’d probably recommend a brand new player to skip straight to the remake, I ranked the original on the list instead since it laid the foundation, and I still appreciate many of its quirks that didn’t make the jump.
+I’ve replayed RE4 a lot over the years, whether it’s with the very fun and overpowered bonus guns or starting over completely. I would say that it still holds up, but having now been remade, I have to think harder on that one. Ironically, one of the more dated aspects, in which you stand still while shooting and move the reticle around the screen, is in my opinion a fun change of pace compared to the centered reticle standard of shooters today. While I’d probably recommend a brand new player to skip straight to the remake, I have a big soft spot for the original since it laid the foundation, and I still appreciate many of its quirks that didn’t make the jump.
 
-### Resident Evil 4 (2023)
+## Resident Evil 4 (2023)
 
 When the RE4 remake was announced, I decided to do something a little different: the original was one of my favorite games of all time, so what did I really need to know about the remake? I hadn't yet played any of the other RE remakes, but I knew they were popular enough to be confident this wouldn't be a total botch job. So after seeing approximately zero pre-release footage or info, I got this on release, and quickly went through it.
 
@@ -114,7 +112,7 @@ In contrast, I gotta give RE4R a surprising amount of credit in streamlining the
 
 Tonally, RE4R removes a lot of lines from the original - most being justified, and many in particular being _dated_, but a lot of the fun cheesiness is gone. However, in true modern gaming fashion, Leon is much more talkative, and spews action hero lines during gameplay instead of just in cutscenes. And it's hard to say anything bad about the new characterization of Ashley. The revamped shooting gallery is an absolute delight, recapturing the goofy spirit of the merchant in a new way. I'm not sure that RE4R fully lived up to my expectations as the definitive version, but the upside is we now have two different ones that have their place.
 
-### Resident Evil 7
+## Resident Evil 7
 
 2017 was a big gaming year for me at the time, but Resident Evil 7 is one I didn't play until much later, being the last game I touched in a 2023 RE-blitz to familiarize myself more with the modern iterations of the series. RE7 is the one that kicked off the renaissance, following up the much-maligned number 6. It reboots the series into a first person take on what I assume is the classic RE style gameplay, with some modern conveniences like more forgiving saves on the standard difficulty. 
 
@@ -130,7 +128,7 @@ RB3 might have been released slightly on the downturn of the genre’s peak, but
 
 ## Rocket League
 
-I'll never endorse the idea of hours played as a metric of a game's quality, but if it was, then Rocket League might be at or very near the top of my list. It's your classic multiplayer game where one match lasts just a few minutes but infinite replayability (and, to be fair, _lots_ of cumulative queue/idle time) pushes it into hundreds of hours. And even for as much as I played, I'm so far away from the top ranks, but that's okay as the matchmaking is generally quite good at giving you a fair game.
+I'll never endorse the idea of hours played as a metric of a game's quality, but if it was, then Rocket League might be at or very near the top of my list. It's your classic multiplayer game where one match lasts just a few minutes but infinite replayability pushes it into hundreds of hours. And even for as much as I played, I'm so far away from the top ranks, but that's okay as the matchmaking is generally quite good at giving you a fair game.
 
 RL is one of those games that's such a simple concept that you wonder why it wasn't done before: you play soccer driving around in cars that can sometimes fly with rocket boosts. As you learn the game it becomes much more evident how much nuance goes into it. It's not just the concept, but the physics require a lot of delicate balancing, and Psyonix achieved something that truly feels great. I didn't start on this game until it had already been out a few years, but I don't recall seeing a single patch that changed the physics, a testament to how much they got it right. Of course, I know that it actually _was_ attempted before, at the very least in Psyonix's own Supersonic Acrobatic Rocket-Powered Battle-Cars. I never played this predecessor, but they no doubt learned a lot from the first draft, especially in marketable naming.
 
@@ -138,7 +136,7 @@ About the only complaints I have with RL are bigger industry problems: the game 
 
 ## Rocksmith 2014
 
-Rocksmith feels like a bit of a weird pick to me, as it’s less of a game and more of a gamified interactive teaching tool. At a surface level, it comes off as being Guitar Hero with a real guitar, but the emphasis is much more on building accuracy and technique, with scaling custom difficulty and a lack of miss penalties. I had to put RS on the list since it actually got me into learning guitar, and there’s something to be said for that. It’s a bit of a non-traditional path, as most people start on acoustic, and naturally this is more attuned to electric guitar songs since it scores based on the pitch directly from your pickups.
+Rocksmith is admittedly less of a game and more of a gamified interactive teaching tool. At a surface level, it comes off as being Guitar Hero with a real guitar, but the emphasis is much more on building accuracy and technique, with scaling custom difficulty and a lack of miss penalties. I had to give RS a shoutout since it actually got me into learning guitar, and there’s something to be said for that. It’s a bit of a non-traditional path, as most people start on acoustic, and naturally this is more attuned to electric guitar songs since it scores based on the pitch directly from your pickups.
 
 Like all music games, one unfortunate aspect is that you are the liberty of licensing, at least without modding your game, and even then you still need someone to be willing to chart it. It hurts a bit more in this one too since you actually want to learn the songs instead of being more about the party aspect. Speaking of which, this game does actually allow two players, and there are a number of mini-game modes, though for me, the focus was more on simply playing through songs to hone my skills and use the virtual tones.
 
@@ -150,4 +148,4 @@ Perhaps the way it got into so many hands is because it’s just so good, and wo
 
 ## RollerCoaster Tycoon 2
 
-I have to admit I was a bit hesitant about including this on the list, as it feels more like a third expansion pack to the first game. Most of what I would say about this has already been said about number 1. Of course it has the obligatory new rides, new parks, new decorations, etc., but it still plays out more or less the same, and even looks similar. The big thing I remember about RCT2 is that it included real world Six Flags parks. While most people would probably be interested in seeing the digital recreations of the parks they know, for me I dreamed of the reverse: someday visiting the parks in real life as made famous by a video game. Update: I’m still at zero visited. To be fair, wasn’t my biggest dream. For as much as I love the RCT games, I still don’t have a particular affinity for amusement parks. But both of the original two games are equally fun, albeit the second go around is far less memorable.
+There isn't much to say about RCT2 that I haven't already said about the first game, as it admittedly feels more like a third, extra-large expansion pack. Of course it has the obligatory new rides, new parks, new decorations, etc., but it still plays out more or less the same, and even looks similar. The big thing I remember about RCT2 is that it included real world Six Flags parks. While most people would probably be interested in seeing the digital recreations of the parks they know, for me I dreamed of the reverse: someday visiting the parks in real life as made famous by a video game. Update: I’m still at zero visited. To be fair, wasn’t my biggest dream. For as much as I love the RCT games, I still don’t have a particular affinity for amusement parks. But both of the original two games are equally fun and help you get a feel for what makes amusement parks so compelling.
