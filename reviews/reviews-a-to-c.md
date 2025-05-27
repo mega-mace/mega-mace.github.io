@@ -52,19 +52,17 @@ Bucky O'Hare is one of those games that’s always been there for me… not like
 
 So, to actually talk about the game: basically, it’s Konami taking a stab at a Mega Man game. With the game being structured around run and gun platforming, and an initial round of selectable stages followed by infiltrating the big bad’s base, it is obvious where the comparison comes from. But outside of those superficial similarities, I think most would find that its approach to individual stage design is completely different. It certainly isn't as ambitious or challenging as MM, but there is a lot to enjoy here. One cool thing is that instead of gaining abilities after defeating a boss, you rescue a different crew member with their own pros and cons, and can freely switch between all of them. The character abilities are less creative than MM powers, but they are intuitive in their usefulness; to BOH's credit, I found myself switching a lot more than I do in MM. There's also no guesswork about enemy weaknesses or energy cost to experiment. It makes for a fun and more approachable take on a much more well-known series.
 
-## Castlevania Series
-
-### Castlevania (NES)
+## Castlevania (NES)
 
 The first Castlevania game still remains, in my eyes, one of the best I’ve played in the series. The central premise of the design is that you have a stiff, limited moveset, but the game is built around that. It’s challenging, but controls tightly. Given this, not much else is needed for an enjoyable “Classicvania”. The game is just the right length for its difficulty, which I think is where 3 faltered. Number 1 also is far less vertical, which is good when the stairs are the cheapest element of the game. The one major flaw with these games is juggling your subweapons, as it’s often better off to die in the early stage where you can get the best weapon rather than at a checkpoint. At least you can get them back at all! And the game is still a pretty fair challenge without them, but whip-only isn’t for me.
 
 Certainly it’s important as well to mention the horror tropes and gothic architecture, which imbue a sense of style to the series. They are limited here with the NES, but it helped set the tone for how future games would look.
 
-### Haunted Castle (Revisted)
+## Haunted Castle (Revisted)
 
 It's easy to see why this is one of the Castlevania titles I had never heard of before. I gave the original a shot, also included with Castlevania Dominus collection, but with how hopelessly difficult it is, I gave up on the first stage. It just wasn't worth it with a remake also an option. The Revisited version is unsurprisingly very forgiving, maybe almost to a fault, but it also was nice because the game can be breezed through in one sitting. I like the graphics, which are improved but look like some lost 90s arcade game, or perhaps one of those 16-bit era consoles I'm not familiar with. Overall this is still a pretty forgettable addition to the Castlevania oeuvre, but it was a nice throw-in.
 
-### Castlevania: The Adventure
+## Castlevania: The Adventure
 
 I knew this game was pretty maligned, but it was part of the Castlevania Anniversary Collection, and figured it's short enough to check out. Many of its shortcomings are common to other games of the era, sometimes even good ones: unfair enemy placements, ridiculously tight jumps, screen flickering, stingy checkpoints, etc. However, the fact that it has _all_ of these flaws, plus some more severe ones, means it is not one of the good ones. The NES Castlevania games pushed the limit of how stiffly a game could control and be good, and CTA goes beyond the breaking point there. 
 
@@ -72,13 +70,13 @@ The overall control is the worst part of the game, but things like losing your w
 
 I persevered through this only due to heavy use of save states. I did pretty well on the first couple stages, but by the end I was saving after every encounter, just ready to see the extent of what the game had to offer, then probably never touch it again.
 
-### Castlevania II: Belmont's Revenge
+## Castlevania II: Belmont's Revenge
 
 It's Castlevania Mega Man! Not just in the stage select screen, but the more vertical oriented gameplay, with the new ability to whip from a chain (or rope, whatever) very reminiscent of Mega Man shooting off ladders. Other than that this game is mostly a refined version of Castlevania: The Adventure. I'd say the level design, in a vacuum, is only marginally better, though it has some interesting concepts. But its across the board improvements show that CTA was hiding a decent game somewhere, and also demonstrate how getting the fundamentals right can make a world of difference in perception. Belmont's Revenge is simply much more enjoyable to play, with far better controls, fuller music, fewer cheap traps, more checkpoints, and the return of subweapons (albeit, disappointingly, only two types). Of course six stages is also better than four, though it is also a quite short game.
 
 Unfortunately, it is also Mega Man-esque in the design of the final boss, which was far too hard for me to go on with. It was the kind of thing that wasn't even fun to try figuring out with save states. The penultimate boss was also a handful, and the first time I used save states. Up until that point, it might be the easiest Classicvania I've played, perhaps an overcorrection from CTA. Overall, a solid throw-in for the Anniversary Collection, of which I'd already played most of its main draws separately.
 
-### Castlevania Legends
+## Castlevania Legends
 
 It's a sheer coincidence that not too long after playing the previous Game Boy entries, Legends was announced as a Switch online addition. Actually, until that point I didn't even know this game existed at all! It's easy to see why, as it's a late 90s game that plays more like one from the late 80s.
 
@@ -86,13 +84,13 @@ This game is pretty easy in some ways, but also full of some of frustrations you
 
 The most annoying levels had a lot of vertical action, which is where I really missed weapons like the axe. You eventually get a subweapon that can damage all enemies on screen from anywhere, but at 5 hearts a pop it's much costlier than the axe. You also get this ability that supercharges you for a short period of time, which makes most of the boss fights easy if you hold on to it until then. Really this game is just all about holding on to your abilities for the opportune moments, and dying significantly alters how easy that is - not particularly different from any Classicvania, really. It might get a slightly unfair rap, but having brought very little to the table after Belmont's Revenge (and some regressions), it's better left forgotten.
 
-### Castlevania: Bloodlines
+## Castlevania: Bloodlines
 
 Castlevania: Bloodlines is a fairly inessential game in the grand scheme, but a big gaming bucket list item for me, being the last of all the (major) "Classicvania" titles I played. Although I enjoy them, at this point in my life I played through it on the easiest possible setting with the easiest character (Eric Lecarde) and liberal use of save states. The big gimmick with this one, I suppose, is that you have two characters that have moments where the paths split due to their unique abilities. I also did some of the John Morris path, but got a little bored of it, as the splits are not that large.
 
 I was a little surprised to see that the SNES counterpart, Super Castlevania IV, is generally higher received, as there is plenty to like about Bloodlines. I briefly messed around in SCIV (part of the same Anniversary Collection) after playing this, and I can say in the very least that Bloodlines has a lot more visual clarity. It's possible that it's a lot shorter (instead relying on the second character playthrough to pad it out), but length is hard to gauge with save state use. I also appreciate in Bloodlines that it tends to give you subweapons more generously, and the addition of mini bosses is a nice touch. It has its fair share of cool visual tricks as well, like mirroring, a level where you circle around a tower and a level I could only describe as looking like you're refracted through different segments. The soundtrack is certainly on par with the rest of the series. I don't know if it's one of my favorites overall, but a solid addition.
 
-### Castlevania: Symphony of the Night
+## Castlevania: Symphony of the Night
 
 I think the term "Metroidvania" is a bit of a misnomer in its modern usage, but that is perhaps besides the point. There once was a time it meant a specific style of Castlevania game, and SotN is the one where it all began, aptly applied in this case. Compared to proper Metroid games, the map design is not as tight, but that freedom of exploration is a welcome iteration on the famously hard series. What SotN does bring to the table is its RPG elements and higher emphasis on combat. 
 
@@ -100,11 +98,11 @@ The familiar Castlevania tropes are here, but greatly expanded with a large worl
 
 There is some confusing progression, but it's a very fun game. It cannot be understated how much the coolness factor elevates Castlevania. Alucard is a suitable badass, and the control is so much snappier than Classicvania, even if I do sometimes miss the whipping (but playing as Richter is a fun bonus mode!). There is a lot of quirky fun stuff too, like the voice acting, the shopkeeper and strange rooms like the confession booth. There are some odd design choices, but look past those and it's a brilliant game and even bigger influence.
 
-### Castlevania: Aria of Sorrow
+## Castlevania: Aria of Sorrow
 
 Symphony of the Night would need to make the jump to handhelds to get a proper follow-up, although it took a while. This was the third attempt at a GBA Castlevania, and while I liked the first two enough, it was clear that Konami finally figured it out. Though it can't match up to SotN in terms of graphics and sound, it plays great with the limited GBA controls. The map design and progression are far more cohesive. With the soul system there is also an even greater degree of character customization. Unfortunately it's hard to say much else about it, but so many Metroid style games share the common feeling of satisfying progression. Castlevania games also share a lot in common, but for me this was before the formula started feeling tired.
 
-### Castlevania: Dawn of Sorrow
+## Castlevania: Dawn of Sorrow
 
 Speaking of a tired formula... wow, after 5 games the Castlevania team really didn't learn a thing. Maybe SotN and AoS aren't really that much better, but they have the benefit of me playing them first. If I recall correctly, AoS is where there started being more RNG with the soul acquisition system. That carries over to DoS as well, but I found myself more annoyed this time, particularly when some randomly dropped souls were necessary to get the true ending. There's also a lot of bouncing around the map around the beginning of the game, because it's designed with a lot of arbitrary backtracking (moreso than the best examples of the genre).
 
@@ -112,7 +110,7 @@ I think the Castlevania games also have a particular tendency to back load it wi
 
 Well I just talked more about my annoyances than the actual game, but what is there to say? The meat of it is standard Castlevania fare, even down to areas they tend to reuse (i.e. a chapel, an underground lake, clock tower) between games. Stuff like the souls system and how it's set up does flow nicely as a "subweapon", even if the RNG dependency on souls is annoying. The combat otherwise is pretty similar to past entries. Overall, still really fun with some annoying moments and lacking a bit in originality at this point.
 
-### Castlevania: Portrait of Ruin
+## Castlevania: Portrait of Ruin
 
 I was already disappointed by one DS Castlevania game, so I set my expectations much lower for Portrait of Ruin. That was a good idea, because that made it less disappointing! Note that this does not mean it's _better_ than Dawn of Sorrow. I'm not making a call on which of the two I prefer, but given the issues I had with DoS and how they were fixed in PoR, I'd have to say PoR is a case of be careful what you wish for.
 

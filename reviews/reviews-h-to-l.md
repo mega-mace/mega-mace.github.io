@@ -20,8 +20,6 @@ Of course, a huge addition to HL2 is its legendary gravity gun. The concept is s
 
 After this (including the expansion episodes of course), the franchise as a whole sadly proved to be a dinosaur, not because it's outdated per se, but because of years without a conclusion. Eventually we got an unexpected VR revival that is unfortunately too cost-prohibitive for the average person, and I'll probably never play either, but maybe now there's a faint hope we get some kind of traditionally-controlled follow-up?
 
-## Halo Series
-
 ## Halo: Combat Evolved
 
 I don’t remember exactly how Halo and Xbox came onto my radar. Obviously it goes without saying that this is the game that made Xbox, but the console was still an unknown newcomer (albeit with a huge brand backing it). I do remember that we got an Xbox for Christmas because there was a decent priced (non-Halo) bundle. At whatever point we ended up getting Halo, it was pretty clear why it was the king of Xbox. PC LAN pioneers will probably scoff at my naivete, but this was where I was introduced to system link. Playing with more than four people was amazing! So was having less split screen (especially back when a 32 inch TV was considered big). Having released before Xbox Live launched, this was initially the proper way to get the Halo multiplayer experience. It probably still is, though I can’t act like the slow death of local multiplayer has only affected Halo.
