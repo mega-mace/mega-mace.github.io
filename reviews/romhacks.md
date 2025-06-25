@@ -24,25 +24,64 @@ This played pretty well on an Everdrive, although there are some downsides. Ther
 
 2nd Run gets most interesting near the later worlds, but moreso in terms of palettes and tiles than any gameplay changes. It also starts to feel unfinished by World 7, where I ran into a warp pipe bug, a level I'm not sure was even beatable, and a level I'm not sure was reachable. Finally, it completely runs out of steam with the unchanged 8th world.
 
+### Blue Mario Bros. 3
+#### Everdrive N8 Pro
+
+A hack where most of the scenery and Mario are colored shades of blue. Some tiles and UI elements are also redesigned, but it's fairly faithful in look otherwise. There are weird choices, like Barney Rubble being in place of Toad in the mushroom houses. I played about two worlds of this hack and found the levels to be kind of deceptively hard in a way that's hard to explain. I warped ahead a bit but didn't play much long after. I also experienced softlocks in some of the levels (i.e. being required to collect P switch coins before they return to bricks to advance).
+
 ### Classic
 #### Everdrive N8 Pro
 
 This is a remake of the first SMB game in SMB3's engine, something that's better as an idea to learn hacking with than an actual game. Due to the engine differences, I'm not sure this would've worked well either way, but it could've been better than it is. The choice of tilesets and palettes used is questionable, as there's no attempt to recreate the look of the source levels. Some of the levels are also incorrectly proportioned, but I'm not sure if it's due to different base tile sizes between the two games. It's not faithful enough to the original but doesn't remix levels in an interesting way either, leaving it in an inconsistent, unhappy medium. There are some SMB3 elements in here like mushroom houses and hammer bros, but inventory items make the game rather easy. It also felt a bit lazy to me that the world map themes are the same as base SMB3, but again, maybe this was made as a learning experience.
+
+### ElBlocko's Super Mario Bros. 3
+#### Everdrive N8 Pro
+
+I made it through two worlds of this hack that is more difficult than I'm looking for. In this case, El Blocko's design seems to favor navigating a lot of narrow spaces, but there are some other annoying parts, like a few instances where you need to sink through quicksand and jump out the side, one of which happens in a rushed autoscroll. The base SMB3 only has you fall through quicksand once, and it's straight through for an optional secret. Along those lines, this hack does have some sense of actually stretching the core mechanics to their limit, which sometimes works. I enjoyed a vertical level that makes far greater use of screen wrapping than the base game, even if it also had some annoying jumps. There was a Boom Boom fight where he has to break through bricks first, a thing I didn't know was possible. But overall the difficulty misses the mark far too often for me, especially when the description says "It starts out pretty easy, but by World 5 you’ll notice an increase in difficulty."
 
 ### Extended Edition
 #### Everdrive N8 Pro
 
 The Extended Edition is mostly the base game with attempts to reintroduce some cut features like the Japanese damage system and some beta levels. The damage changes make for a nice bit of extra challenge for veteran players, but the alleged beta levels are weird. I'm not sure if they were pieced together with incomplete information or were simply never completed by Nintendo, but they definitely feel strangely designed and out of place. For example, there are enemies and themes that don't seem like they belong in the given world, and sometimes harsh transitions to the level end goal. It was also kind of a slog to play through to see these levels since I had recently played the base game. They are interspersed through the normal game, but a standalone "beta world" hack might be a nice thing if one doesn't already exist.
 
+### Mario Chronicles
+#### Everdrive N8 Pro
+
+Seems promising but there's a bug (at least on ED) where the bottom score display shakes every time you hit a block (and some other times), which is too annoying. Somewhat surprisingly, I had trouble getting it to work on an emulator as an alternative.
+
+### Mario Oasis
+#### Everdrive N8 Pro
+
+A somewhat tropical themed hack, this hack makes predictably consistent use of water areas. The creator seems to also be a fan of pipes. There aren't that many full-blown water levels though, which I think is a plus. I can't tell if this hack was supposed to be difficult or not, as it gives you infinite lives (or so high over 99 I never saw it go down) and many of the levels end with an item for your reserves. Or perhaps these advantages are to counteract the difficulty, although most of the time I found it manageable, tending to _look_ harder than it actually is. The last castle was annoying enough for me to resort to save scumming though. I think there is a bonus world that I went to by accident by warping before loading back onto the normal path, but I never revisited it.
+
 ### Mystery of the Flying Fish
 #### Everdrive N8 Pro
 
 The aptly-title Flying Fish hack is a single-world hack that's all about Cheep Cheeps. Whether they move straight, dart back and forth, or jump around, you name it, they're in it. Of course the big one is here and even the unused ones that move in a wave. This is a really well-done hack that makes challenges out of the different ways of avoiding them without overstaying its welcome. It's intuitive but still a solid test of skill. My only complaint is that game overs can be pretty punishing, especially since all the levels are auto-scrollers. I know that most of the levels have a (sometimes hard to reach) 1-up, but I eventually opted to save scum with this one.
 
+### New Super Mario Bros. 3 Returns
+#### Everdrive N8 Pro
+
+This game has a confusing name - there's no real connection to the NSMB style, and the name sounds maybe like a sequel, but would you guess it's the creator's SEVENTH entry in this "series"? Nor does the design live up to the expectations of an experienced hacker. There are some weird visual choices, like some minor texture alterations to pipes and ? blocks that make them duller. In the desert levels there are pyramid background items that sometimes have trees in front of them, except the tree tiles have a sky background that makes those parts of the pyramid look cut out. Worst of all, the creator seemed to replace the wooden single-square blocks with the rocks from the world map (the kind you can break with the hammer), which doesn't look good at all.
+
+Gameplay-wise, in the ~2 worlds I played I was surprised at the amount of lazy rehashes of real SMB3 levels there were. That's not uncommon once in a while in hacks, but again, someone is doing this in their 7th effort, and several times per world? There are some more original levels too, but the ones I played were dull and seemed to be devoid of secrets.
+
 ### Super Mario All-Stars NES
 #### Everdrive N8 Pro
 
 I can't think of a more pointless and perhaps also more impressive hack at the same time. As the title suggests, it's like the SNES game, containing SMB 1, both 2s and 3, and even a save feature. Of course, the high chance of someone playing this on an emulator means that saving and quickly switching games are already not an issue. Likewise, flash carts like the Everdrive also solve those problems. But a big part of ROMhacking is challenging yourself with the technical work, so I have a lot of respect for the creator doing this seemingly just for the technical feat.
+
+### Super Mario Bros. 3Mix
+#### Everdrive N8 Pro
+
+This hack encompasses a lot of mechanics and levels from across the Mario series, as best as it can in a heavily modified SMB3 engine. World 1 is SMB 1, World 2 is SMB2, etc., although along the way there are some levels that are either originals or from Mario games I haven't played or don't remember well enough to recognize. Every level has three optional star coins that are mostly sensibly placed in a fashion similar to what you'd expect from a real Mario game. The level design is engaging without falling into the common hack trap of relying on high difficulty. There are ghost houses and occasional secret exits, you can replay levels after beating them, and with down-to-each-level saving as an option it beats even SMW, being a very technically impressive hack.
+
+I also want to pick on this game's flaws a bit just because it is such a popular hack. The rabbit power-up is just a worse version of the tanooki, being only useful for slowing descents, and isn't even used for that very much in the levels where it appears. The super ball would've been a more interesting SML representative. A lot of the game just seems to be more for posterity, like the janky Yoshi or reversing gravity Galaxy stages that don't work great. 3mix is arguably pretty reliant on gimmicks and series nostalgia, but thankfully the levels aren't _bad_. Some are kind of boring, like remixed SMB3 levels with a spooky palette. Speaking of which, some of the visuals leave a bit to be desired, but I understand the NES doesn't have a lot of color to work with. Slowdowns and visual bugs were common, but again, it's stretching the tech here. The star coins ultimately didn't seem to unlock anything unless you get _all_ of them. I also found the progression of levels didn't really have any sense of climbing difficulty. But overall, this is an ambitious hack, sometimes flawed because of the ambitions, and certainly far better than average.
+
+### Super Mario Ultimate
+#### Everdrive N8 Pro
+
+This hack's art style, which is at least impressive in how it overhauls nearly all of the textures (and lifts some from Kirby for some reason), was a big miss for me, so much so I almost _expected_ the game to be bad. Instead I had to suck it up with the weird visuals, because it turned out to be quite good as far as level design goes. There are some interesting new elements, like a little half-block you can slide along the ground to make a platform, but most of all, it expands upon existing mechanics and takes them in sometimes unexpected directions. I thought the creativity peaked around worlds 5 and 6, but in the final two worlds, it starts overstaying its welcome a bit, with overly complicated/long levels. This is the point I started save scumming. The penultimate level is one that confused me so much I had to resort to using the one cloud item I found through the game. Thankfully it was the only one but you end up with lots of tough levels that you can't even just bypass with the P-wing. This game also has selectable difficulties, but I only played through on normal, and from limited play the others seem to change how its Super Mario World-like powerup reserve (another neat idea) works.
 
 ## Super Mario 64
 
