@@ -7,6 +7,7 @@
 - The Legend of Zelda: Echoes of Wisdom (beaten)
 - Donkey Kong 64 (quit at final boss with 92% completion)
 - Donkey Kong Bananza (100% bananas, fossils and records)
+- NieR Automata (Endings A-E, about two-thirds of sidequests)
 
 ## Top Picks
 
